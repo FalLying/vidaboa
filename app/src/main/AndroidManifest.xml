@@ -9,6 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".UpdateUser"></activity>
+        <activity android:name=".UserItem" />
+        <activity android:name=".ListUsers" />
+        <activity android:name=".CreateUser" />
+        <activity android:name=".CreateCooker" />
+        <activity android:name=".CreateAccount" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

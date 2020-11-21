@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Vida Boa</string>
+    <string name="description_icon_user">Ícone de usuário</string>
+    <string name="description_view_login">Você já possui uma conta?</string>
+    <string name="hint_input_email">Email</string>
+    <string name="hint_input_password">Senha</string>
+    <string name="hint_input_name">Nome</string>
+    <string name="hint_input_Date">Aniversário</string>
+    <string name="hint_input_phone">Whatsapp</string>
+    <string name="text_button_login">ENTRAR</string>
+    <string name="text_delimited">OU</string>
+    <string name="text_create_account">Criar uma conta agora</string>
+    <string name="button_create_user">Sou Cliente</string>
+    <string name="button_create_cooker">Sou Cozinheiro</string>
+    <string name="button_createAccount">Finalizar</string>
+    <string name="button_back">Voltar</string>
+    <string name="button_exit">Sair</string>
+    <string name="button_list">Listar</string>
+    <string name="button_udpate">Editar</string>
+    <string name="hint_input_search">ID</string>
+    <string name="hint_input_delete">Excluir</string>
 </resources>
